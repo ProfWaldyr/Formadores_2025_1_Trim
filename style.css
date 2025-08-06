@@ -34,4 +34,9 @@ section {
 
 img {
     height: 200px;
+}   
+
+.categoria-videos img {
+
+    opacity: 0.5;
 }
