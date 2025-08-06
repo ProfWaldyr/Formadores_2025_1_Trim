@@ -40,3 +40,7 @@ img {
 
     opacity: 0.5;
 }
+.categoria-videos img:hover {
+
+    opacity: 1.5;
+}
