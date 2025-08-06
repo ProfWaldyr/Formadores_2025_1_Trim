@@ -43,4 +43,5 @@ img {
 .categoria-videos img:hover {
 
     opacity: 1.5;
+    border: 5px solid blue;
 }
